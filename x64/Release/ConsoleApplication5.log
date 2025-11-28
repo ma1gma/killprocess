@@ -1,0 +1,10 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\TOP Academy\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(26,36): warning C4101: e: неиспользованная локальная переменная
+C:\Users\TOP Academy\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(75,27): warning C4101: dwTemp: неиспользованная локальная переменная
+C:\Users\TOP Academy\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(74,27): warning C4101: szBuff: неиспользованная локальная переменная
+  Создание кода
+  1 of 199 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication5.vcxproj -> C:\Users\TOP Academy\source\repos\ConsoleApplication5\x64\Release\ConsoleApplication5.exe
