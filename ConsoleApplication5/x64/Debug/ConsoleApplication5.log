@@ -1,0 +1,3 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\TOP Academy\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(21,36): warning C4101: e: неиспользованная локальная переменная
+  ConsoleApplication5.vcxproj -> C:\Users\TOP Academy\source\repos\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
